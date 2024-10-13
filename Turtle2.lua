@@ -15,8 +15,8 @@ function Inputs()
         Y = 16
         Z = 4
 
-        print("Please write your X, Y, Z for the Quarry. Place a , between each number")
-        X, Y, Z = io.read()
+        --print("Please write your X, Y, Z for the Quarry. Place a , between each number")
+        --X, Y, Z = io.read()
     end
 
 function Quarry(Inputs)
